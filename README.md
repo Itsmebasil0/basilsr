@@ -3,22 +3,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmebasil0&label=Profile%20views&color=0e75b6&style=flat" alt="itsmebasil0" /> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terror-boy" alt="itsmebasil0" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmebasil0" alt="itsmebasil0" /></a> </p>
 
 
-<div align="center">
-       
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=terror-boy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-  </div>
+
  
 
 <p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmebasil0&show_icons=true&theme=dark&locale=en&layout=compact" alt="terror-boy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmebasil0&show_icons=true&theme=dark&locale=en&layout=compact" alt="itsmebasil0" /></p>
 
 <p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="terror-boy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmebasil0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="basilsr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmebasil0" /></p>
 </p>
 
 
